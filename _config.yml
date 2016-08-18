@@ -1,0 +1,14 @@
+layout_spectrum: 0.9238968954887241
+typography_spectrum: 0.7504604768473655
+color:
+  brandStrength: 0.007656380999833345
+  lightness: 0.03958018100820482
+  saturation: 0.37781034875661135
+  rhythmicContrast: 0.8822260966990143
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: TruSelf
