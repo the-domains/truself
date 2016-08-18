@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TruSelf]]></title>
+        <description><![CDATA[TruSelf]]></description>
+        <link>https://thegrid.ai/truself/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 06:01:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/truself/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[100 Stunning Picture Quotes That Will Supercharge Your Creativity]]></title>
+            <description><![CDATA[<article><h1>100 Stunning Picture Quotes That Will Supercharge Your Creativity</h1><p>Find your next favorite quote rendered in stunning graphic design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0213881fad2f4f9968b8c1e81012178c/noop.png?input=https%3A%2F%2Fdesignschool.canva.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2016%2F03%2FQUOTES-1.png"></article>]]></description>
+            <link>https://designschool.canva.com/blog/picture-quotes/</link>
+            <guid isPermaLink="false">4fdebcb0-e865-46d1-9b30-a6279ce62451</guid>
+            <pubDate>Thu, 18 Aug 2016 06:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unsplash | Free High Resolution Photos]]></title>
+            <description><![CDATA[<article><h1>Unsplash | Free High Resolution Photos</h1><p>Do whatever you want free high-resolution photos. Download 10 new free photos every 10 days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79491d987aa5799dcea7364eec13f720e38fc94c.jpg"></article>]]></description>
+            <link>https://unsplash.com/</link>
+            <guid isPermaLink="false">8dd628ba-ca46-4e07-b3c1-76b9c538fff2</guid>
+            <pubDate>Thu, 18 Aug 2016 06:01:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
